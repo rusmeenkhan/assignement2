@@ -1,0 +1,40 @@
+.navlist{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: rgb(245, 245, 245);
+}
+
+.navlist li{
+    border: 1px solid black;
+}
+
+.heading h1{
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.navbar-brand{
+    font-size: 2em;
+    font-weight: bold;
+
+}
+.btn{
+    color: white !important;
+}
+
+.menuItem h2{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.menuItem{
+    background-color: rgb(206, 203, 203);
+    font-weight: 500;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
